@@ -1,5 +1,5 @@
 ### Hi there, Im Erlis 👋
-<img src="https://drive.google.com/file/d/1CT6DHkt-SQSskoGw6zNIKDgTN4vBT_XK/view?usp=sharing">
+<img src="https://github.com/erlisrizqiyani/erlisrizqiyani/blob/main/Header%20Github.png">
 <!--
 **erlisrizqiyani/erlisrizqiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
